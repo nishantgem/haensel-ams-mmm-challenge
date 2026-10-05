@@ -1,0 +1,10 @@
+pymc>=5.0.0
+arviz
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+reportlab
+jupyter
+ipykernel
